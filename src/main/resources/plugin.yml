@@ -1,0 +1,6 @@
+name: Feather-plugin
+version: '1.0-SNAPSHOT'
+main: me.kowal.mooneu.FeatherClient
+api-version: '1.20'
+website: discord.gg/mooneu
+authors: [FeatherClient, kowadl0]

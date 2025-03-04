@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="feather-plugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/feather_plugin</output-path>
+    <root id="archive" name="feather-plugin.jar">
+      <element id="module-output" name="feather-plugin" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>
